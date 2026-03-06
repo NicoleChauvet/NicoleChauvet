@@ -40,13 +40,13 @@
 <h2>Proyectitos que me gustaron </h2>
 
 <div align="center">
-  <a href="https://github.com/NicoleChauvet/portafolio-backend/tree/main/TPI">
-    <img width="300" height="389" alt="image" src="https://github.com/user-attachments/assets/a67f7242-e1c5-47c9-9031-a776a476e52b" alt="TPI integrador backend">
-  </a>
-  &emsp;&emsp;&emsp;&emsp;
-  <a href="https://github.com/NicoleChauvet/red-sismica">
-    <img width="300" height="389" alt="image" src="https://github.com/user-attachments/assets/08c0c92b-0d59-493b-abb9-676ec03ecfd9" alt="PPAI red sísmica">
-  </a>
+ <a href="https://github.com/NicoleChauvet/portafolio-backend/tree/main/TPI">
+  <img width="300" height="389" alt="image" src="https://github.com/user-attachments/assets/a67f7242-e1c5-47c9-9031-a776a476e52b" alt="TPI integrador backend">
+ </a>
+ &emsp;&emsp;&emsp;&emsp;
+ <a href="https://github.com/NicoleChauvet/red-sismica">
+  <img width="300" height="389" alt="image" src="https://github.com/user-attachments/assets/08c0c92b-0d59-493b-abb9-676ec03ecfd9" alt="PPAI red sísmica">
+ </a>
 </div>
 
 
