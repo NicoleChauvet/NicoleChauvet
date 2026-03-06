@@ -39,7 +39,7 @@
 
 <h2>Proyectitos que me gustaron </h2>
 <a href="https://github.com/NicoleChauvet/portafolio-backend/tree/main/TPI">
-<img width="471" height="389" alt="image" src="https://github.com/user-attachments/assets/a67f7242-e1c5-47c9-9031-a776a476e52b" alt="TPI integrador backend" width="400">
+<img width="471" height="389" alt="image" src="https://github.com/user-attachments/assets/a67f7242-e1c5-47c9-9031-a776a476e52b" alt="TPI integrador backend" width="300">
 <a/>
 
 
