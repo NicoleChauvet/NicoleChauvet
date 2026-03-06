@@ -6,7 +6,7 @@
 
 <!--  -->
 
-<h2>Sobre mi... 🙋🏽‍♀️ </h2>
+<h2>Sobre mi... </h2>
 
 - 🎓 Estudiante Ingenieria en Sistemas (UTN FRC)
 - 💻 Super enfocada en mejorar mis habilidades y construir proyectos
@@ -15,7 +15,7 @@
 
 <!--  -->
 
-<h2>¿Cuáles son mis conocimientos? 🛠 </h2>
+<h2>¿Cuáles son mis conocimientos? </h2>
 
 **Lenguajes:** Python | Java | C# | JavaScript | SQL
 <br>
@@ -25,4 +25,4 @@
 
 <!--  -->
 
-<h2>Proyectitos que me gustaron 🌟 </h2>
+<h2>Proyectitos que me gustaron </h2>
