@@ -37,7 +37,7 @@
 
 <!--  -->
 
-<h2>Proyectitos que me gustaron </h2>
+<h2>Mis proyectos destacados </h2>
 
 <div align="center">
   <a href="https://github.com/NicoleChauvet/portafolio-backend/tree/main/TPI"><img width="300" height="389" src="https://github.com/user-attachments/assets/1dc9d0d5-6959-411d-abb0-94f03686f135" alt="TPI integrador backend"></a>
