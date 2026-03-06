@@ -40,27 +40,7 @@
 <h2>Mis proyectos destacados </h2>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/NicoleChauvet/portafolio-backend/tree/main/TPI">
-          <img width="300" src="https://github.com/user-attachments/assets/1dc9d0d5-6959-411d-abb0-94f03686f135" alt="TPI integrador backend">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/NicoleChauvet/red-sismica">
-          <img width="300" src="https://github.com/user-attachments/assets/b54beec8-81a6-4445-a0b9-1c4ea799e5e8" alt="PPAI red sísmica">
-        </a>
-      </td>
-    </tr>
-    &emsp;&emsp;&emsp;&emsp;
-    <tr>
-      <td align="center">
-        <b>Tech Stack:</b><br>Java | Spring Boot | SQL | Docker | Keycloak
-      </td>
-      <td align="center">
-        <b>Tech Stack:</b><br>Java | Spring Boot | SQL | Maven
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/NicoleChauvet/portafolio-backend/tree/main/TPI"><img width="300" height="389" src="https://github.com/user-attachments/assets/1dc9d0d5-6959-411d-abb0-94f03686f135" alt="TPI integrador backend"></a>
+  &emsp;&emsp;&emsp;&emsp;
+  <a href="https://github.com/NicoleChauvet/red-sismica"><img width="300" height="389" src="https://github.com/user-attachments/assets/b54beec8-81a6-4445-a0b9-1c4ea799e5e8" alt="PPAI red sísmica"></a>
 </div>
