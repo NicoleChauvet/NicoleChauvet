@@ -11,7 +11,6 @@
 - 🎓 Estudiante Ingenieria en Sistemas (UTN FRC)
 - 💻 Super enfocada en mejorar mis habilidades y construir proyectos
 - 🦾 Todavía sigo profundizando en buenas prácticas y arquitectura
-- 🙌🏽 Abierta a oportunidades laborales, pasantías y trabajo en equipo
 
 <!--  -->
 
