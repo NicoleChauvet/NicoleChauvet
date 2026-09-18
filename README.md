@@ -1,7 +1,7 @@
 <h1 align="center"> ¡Hola! Soy Nicole ✨🤸🏽‍♀️🌞 </h1>
 
 <div align="center">
-  <img width="1584" height="396" alt="banner presentacion" src="https://github.com/user-attachments/assets/5336149c-a1f2-4344-a7ab-35beee3d84c7" />
+  
 </div>
 
 <!--  -->
